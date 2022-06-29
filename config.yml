@@ -37,7 +37,7 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Nexus Solutions
+    - name: Atom Solutions
       description: A Public Instance of RedBot
       category: Network Bots
     - name: Redux
