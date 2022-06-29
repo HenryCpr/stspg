@@ -77,7 +77,7 @@ params:
       description: This is the Bots that have been hosted by Atom Network.
       closed: false
       untitled: false
-    - name: "Network Utilities "
+    - name: Network Utilities
       closed: false
       untitled: false
       description: The Main Bots for the Atom Net Server
