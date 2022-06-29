@@ -2,7 +2,7 @@
 section: issue
 title: Network Restart
 date: 2022-06-29T18:21:37.494Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
@@ -16,6 +16,7 @@ affected:
   - ""
 severity: down
 ---
-Network Restart - We Are Experiencing some Network Error from our Host. We are Doing a Full Network Restart for better stability of the server and API Flows. 
+\
+**Resolved  - Services are Booted Back Online**
 
-ETA : 5 Minutes
+Network Restart - We Are Experiencing some Network Error from our Host. We are Doing a Full Network Restart for better stability of the server and API Flows.
