@@ -80,6 +80,7 @@ params:
     - name: "Network Utilities "
       closed: false
       untitled: false
+      description: The Main Bots for the Atom Net Server
     - name: Location
       description: The main servers are located here.
       closed: false
