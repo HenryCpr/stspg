@@ -1,14 +1,11 @@
 ---
+section: issue
 title: Unavailable Guilds & Connection Issues
-date: 2018-04-13 15:54:00
+date: 2022-06-08T09:24:00.000Z
 resolved: true
 resolvedWhen: 2018-04-13 17:30:00
-# Possible severity levels: down, disrupted, notice
+affected: []
 severity: down
-affected:
-  - API
-  - Media Proxy
-section: issue
 ---
 
 *Post-mortem*
