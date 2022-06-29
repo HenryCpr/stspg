@@ -39,7 +39,7 @@ params:
   systems:
     - name: Atom Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: Network Utilities
       link: https://example.com/
     - name: Nexus Solutions
       description: A Public Instance of RedBot
@@ -76,14 +76,17 @@ params:
     - name: Network Bots
       description: This is the Bots that have been hosted by Atom Network.
       closed: true
+      untitled: true
     - name: "Network Utilities "
       closed: true
+      untitled: true
     - name: Location
       description: The main servers are located here.
       closed: true
+      untitled: true
     - name: Empty Category
     - name: Uncategorized
-      untitled: true
+      untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
