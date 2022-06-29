@@ -37,10 +37,6 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Atom Website
-      description: The web frontend for the application.
-      category: Network Utilities
-      link: https://example.com/
     - name: Nexus Solutions
       description: A Public Instance of RedBot
       category: Network Bots
@@ -57,6 +53,8 @@ params:
       description: The Bot for Website Puropses
     - category: Network Utilities
       name: Atom Guard
+    - name: Atom Website
+      category: Network Utilities
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
