@@ -85,8 +85,9 @@ params:
       closed: true
       untitled: false
     - name: Empty Category
+      untitled: true
     - name: Uncategorized
-      untitled: false
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
