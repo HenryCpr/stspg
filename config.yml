@@ -75,14 +75,14 @@ params:
   categories:
     - name: Network Bots
       description: This is the Bots that have been hosted by Atom Network.
-      closed: true
+      closed: false
       untitled: false
     - name: "Network Utilities "
-      closed: true
+      closed: false
       untitled: false
     - name: Location
       description: The main servers are located here.
-      closed: true
+      closed: false
       untitled: false
     - name: Empty Category
       untitled: true
