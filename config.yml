@@ -2,7 +2,7 @@ title: Atom Network - Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://status.atom-net.cf
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -37,21 +37,26 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
+    - name: Atom Website
       description: The web frontend for the application.
       category: Uncategorized
       link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
+    - name: Nexus Solutions
+      description: A Public Instance of RedBot
+      category: Network Bots
+    - name: Redux
+      category: Network Bots
+    - name: United Kingdom
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Location
+    - name: Meta Space
+      category: Network Bots
+    - name: "Atom Web "
+      category: Network Utilities
+      description: The Bot for Website Puropses
+    - category: Network Utilities
+      name: Atom Guard
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -68,7 +73,12 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
+    - name: Network Bots
+      description: This is the Bots that have been hosted by Atom Network.
+      closed: true
+    - name: "Network Utilities "
+      closed: true
+    - name: Location
       description: The main servers are located here.
       closed: true
     - name: Empty Category
