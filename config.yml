@@ -33,7 +33,7 @@ enableGitInfo: true
 params:
   skipSeconds: false
   useRelativeTime: true
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
@@ -62,12 +62,17 @@ params:
   logo: /img/welt_2-removebg-preview.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Website
+      link: https://atom-net.cf
+    - name: Discord
+      link: https://discord.gg/MyrjD49khC
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
