@@ -14,7 +14,7 @@ affected:
   - Atom Guard
   - Atom Web
   - ""
-severity: down
+severity: notice
 ---
 \
 **Resolved  - Services are Booted Back Online**
