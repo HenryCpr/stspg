@@ -2,7 +2,7 @@
 section: issue
 title: "United Kingdom Node Distrupted "
 date: 2022-07-01T16:30:27.141Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
